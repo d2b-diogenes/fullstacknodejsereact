@@ -19,23 +19,23 @@ Iremos finalizar o percurso adicionando testes e fazendo deploy da aplicação c
 
 ### Cursos:
 
->React: comece seu projeto full stack
->*Compreenda os conhecimentos básicos teóricos e práticos de React
->*Aplique a manutenção numa aplicação React
->*Crie um website próprio usando React
->*Coloque em prática as ferramentas mais utilizadas pelo mercado de trabalho front-end
+> React: comece seu projeto full stack
+>* Compreenda os conhecimentos básicos teóricos e práticos de React
+>* Aplique a manutenção numa aplicação React
+>* Crie um website próprio usando React
+>* Coloque em prática as ferramentas mais utilizadas pelo mercado de trabalho front-end
 
->React e Node.js: consumindo APIs no React no projeto full stack
->*Aprenda a conectar seu frontend em React com uma API
->*Aprenda a criar uma navegação entre páginas com React Router
->*Consiga entender o fluxo de dados de uma aplicação completa fim a fim
->*Entenda a ferramenta Axios
->*Construa uma aplicação full stack
+> React e Node.js: consumindo APIs no React no projeto full stack
+>* Aprenda a conectar seu frontend em React com uma API
+>* Aprenda a criar uma navegação entre páginas com React Router
+>* Consiga entender o fluxo de dados de uma aplicação completa fim a fim
+>* Entenda a ferramenta Axios
+>* Construa uma aplicação full stack
 
->Node.js: continue seu projeto full stack criando uma API com Express
->*Aprenda a criar uma API Node.js usando Express
->*Entenda como funcionam requisições HTTP
->*Compreenda como testar e validar uma API manualmente
->*Aprenda a manipular arquivos JSON para armazenar dados
->*Saiba como lidar com erros na sua aplicação
->*Conheça os mais utilizados métodos HTTP
+> Node.js: continue seu projeto full stack criando uma API com Express
+>* Aprenda a criar uma API Node.js usando Express
+>* Entenda como funcionam requisições HTTP
+>* Compreenda como testar e validar uma API manualmente
+>* Aprenda a manipular arquivos JSON para armazenar dados
+>* Saiba como lidar com erros na sua aplicação
+>* Conheça os mais utilizados métodos HTTP
